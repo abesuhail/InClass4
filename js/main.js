@@ -64,7 +64,7 @@
 // 	return (a*b)
 // }
 // document.write(num1)
-for(i =0; i <=100; i+=5){
-	console.log(i)
-}
+// for(i =0; i <=100; i+=5){
+// 	console.log(i)
+// }
 
